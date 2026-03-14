@@ -1,0 +1,146 @@
+{
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3": {
+        "Ref": {
+            "text": "A gentle, melancholic piano melody floats over a soft, ambient backdrop, creating a serene and introspective atmosphere. The piece is performed at a slow tempo of approximately 70 beats per minute, allowing each note to resonate and evoke a sense of calm reflection.",
+            "gen": "generated_audio/output/test_0.wav"
+        },
+        "tar_text": 0.4720151126384735,
+        "text_gen": 0.5224207639694214,
+        "gen_tar": 0.6578781008720398,
+        "Meta Audiobox Aesthetics": {
+            "CE": 7.3842620849609375,
+            "CU": 7.940717697143555,
+            "PC": 3.4920716285705566,
+            "PQ": 7.5240397453308105
+        },
+        "Melody similarity": 0.7682167704137679
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav": {
+        "Ref": {
+            "text": "A steady, mid-tempo drum beat in 4/4 time dominates the audio, with a crisp snare, deep kick and bright hi-hat. The percussion is dry and unadorned, lacking any other instruments or effects. The tempo hovers around 109 BPM, giving the track a relaxed, almost meditative groove.",
+            "gen": "generated_audio/output/test_1.wav"
+        },
+        "tar_text": 0.5779451131820679,
+        "text_gen": 0.5276753306388855,
+        "gen_tar": 0.8305544853210449,
+        "Meta Audiobox Aesthetics": {
+            "CE": 6.807021617889404,
+            "CU": 7.994951248168945,
+            "PC": 3.963700532913208,
+            "PQ": 7.57150936126709
+        },
+        "Melody similarity": 0.3362626632491151
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav": {
+        "Ref": {
+            "text": "A steady, mid-tempo drum beat in 4/4 time dominates the audio, with a crisp snare, deep kick and bright hi-hat. The percussion is dry and unadorned, lacking any other instruments or vocals. The overall feel is raw and rhythmic, suitable for a simple, driving groove.",
+            "gen": "generated_audio/output/test_2.wav"
+        },
+        "tar_text": 0.4246610403060913,
+        "text_gen": 0.3937912881374359,
+        "gen_tar": 0.7643744349479675,
+        "Meta Audiobox Aesthetics": {
+            "CE": 6.155819892883301,
+            "CU": 7.65268611907959,
+            "PC": 4.644074440002441,
+            "PQ": 7.401644229888916
+        },
+        "Melody similarity": 0.6567801782009032
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3": {
+        "Ref": {
+            "text": "A lone flute carries a melancholic melody over a gentle, ambient backdrop. The piece unfolds at a slow tempo of approximately 70 BPM, creating a serene and introspective atmosphere.",
+            "gen": "generated_audio/output/test_3.wav"
+        },
+        "tar_text": 0.5914769172668457,
+        "text_gen": 0.5898720026016235,
+        "gen_tar": 0.7461108565330505,
+        "Meta Audiobox Aesthetics": {
+            "CE": 6.843311309814453,
+            "CU": 7.409839153289795,
+            "PC": 2.58164644241333,
+            "PQ": 6.779106140136719
+        },
+        "Melody similarity": 0.8787989747345295
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3": {
+        "Ref": {
+            "text": "A gentle, classical piano piece unfolds with a slow, waltz-like rhythm. The melody is tender and expressive, carried by a single instrument in a major key. The tempo is unhurried, creating a serene and introspective atmosphere.",
+            "gen": "generated_audio/output/test_4.wav"
+        },
+        "tar_text": 0.3905738592147827,
+        "text_gen": 0.5811692476272583,
+        "gen_tar": 0.63910311460495,
+        "Meta Audiobox Aesthetics": {
+            "CE": 7.485982418060303,
+            "CU": 8.045173645019531,
+            "PC": 2.5907516479492188,
+            "PQ": 7.978028297424316
+        },
+        "Melody similarity": 0.8324179177346516
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3": {
+        "Ref": {
+            "text": "A gentle, solo piano piece in F major plays throughout the clip, its soft, flowing melody creating a serene and nostalgic atmosphere. The tempo is a steady 115 BPM, lending a calm, unhurried feel to the music.",
+            "gen": "generated_audio/output/test_5.wav"
+        },
+        "tar_text": 0.48102912306785583,
+        "text_gen": 0.594653308391571,
+        "gen_tar": 0.7411044836044312,
+        "Meta Audiobox Aesthetics": {
+            "CE": 7.673303604125977,
+            "CU": 8.113320350646973,
+            "PC": 3.0903689861297607,
+            "PQ": 8.114436149597168
+        },
+        "Melody similarity": 0.6555596240693274
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav": {
+        "Ref": {
+            "text": "A steady, mid-tempo drum beat in 4/4 time dominates the audio, with a crisp snare on the 2nd and 4th beats and a deep kick on the 1st and 3rd. Occasional hi-hat and cymbal accents add texture. The overall feel is relaxed and rhythmic, suitable for background music or a laid-back setting.",
+            "gen": "generated_audio/output/test_6.wav"
+        },
+        "tar_text": 0.4814397692680359,
+        "text_gen": 0.46896621584892273,
+        "gen_tar": 0.8651685118675232,
+        "Meta Audiobox Aesthetics": {
+            "CE": 6.700900077819824,
+            "CU": 8.022924423217773,
+            "PC": 4.011281967163086,
+            "PQ": 7.601125717163086
+        },
+        "Melody similarity": 0.24435493714146223
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3": {
+        "Ref": {
+            "text": "A gentle, melancholic melody played on a Chinese flute floats over a soft, ambient piano backdrop. The piece is in C major, with a slow tempo of 80 BPM, creating a serene and reflective atmosphere.",
+            "gen": "generated_audio/output/test_7.wav"
+        },
+        "tar_text": 0.4504326581954956,
+        "text_gen": 0.5628162622451782,
+        "gen_tar": 0.7785487174987793,
+        "Meta Audiobox Aesthetics": {
+            "CE": 7.517353057861328,
+            "CU": 7.996059894561768,
+            "PC": 3.5638725757598877,
+            "PQ": 7.950512886047363
+        },
+        "Melody similarity": 0.8532893933845966
+    },
+    "../../../home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3": {
+        "Ref": {
+            "text": "A lively piano solo in G# minor plays a brisk, waltz-like rhythm at 136 BPM. The piece features intricate, fast-paced runs and a playful, almost whimsical melody that shifts between major and minor chords, creating a dynamic and engaging atmosphere.",
+            "gen": "generated_audio/output/test_8.wav"
+        },
+        "tar_text": 0.468441367149353,
+        "text_gen": 0.539916455745697,
+        "gen_tar": 0.6565660238265991,
+        "Meta Audiobox Aesthetics": {
+            "CE": 7.320311069488525,
+            "CU": 8.154747009277344,
+            "PC": 4.396111965179443,
+            "PQ": 8.139017105102539
+        },
+        "Melody similarity": 0.6898571951666056
+    }
+}

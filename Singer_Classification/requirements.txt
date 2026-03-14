@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+
+numpy==2.0.1
+matplotlib==3.10.6
+librosa==0.11.0
+tqdm==4.64.1
+seaborn==0.13.2
+xgboost==3.0.5
+demucs==4.0.1
+diffq==0.2.4
+torchaudio-augmentations==0.2.4

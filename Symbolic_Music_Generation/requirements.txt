@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+numpy
+matplotlib
+tqdm
+numpy
+miditok
+miditoolkit==1.0.0
+transformers
+midi2audio
+scipy
+pandas
+librosa
+matplotlib>=3.0.0
