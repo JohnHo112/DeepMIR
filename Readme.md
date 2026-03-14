@@ -1,4 +1,4 @@
-# DeepMIR Homework Repository
+# Deep Music Information Research (DeepMIR)
 
 This repository contains three course assignments for **Deep Music Information Research (DeepMIR)**, covering topics in singer classification, controllable text-to-music generation, and symbolic music generation.
 
